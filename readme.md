@@ -1,6 +1,6 @@
 # ElasticSearch
 
-ElasticSearch 0.90.1
+ElasticSearch 0.90.7
 
 Uses `elasticsearch` as the entrypoint with default options of `-f`
 
